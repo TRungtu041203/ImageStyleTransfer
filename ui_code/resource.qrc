@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="styles">
+    <file>asset/style3.jpg</file>
+    <file>asset/style4.jpg</file>
+    <file>asset/style1.jpg</file>
+    <file>asset/style2.jpg</file>
+  </qresource>
+</RCC>
